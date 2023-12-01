@@ -16,7 +16,7 @@
 						<img class="icon" src="../../public/fleche.svg" alt="fleche" />
 					</button>
 				</div>
-				{solde}
+				<!-- {solde} -->
 			</form>
 			
 		</div>
