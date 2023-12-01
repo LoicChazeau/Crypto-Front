@@ -1,15 +1,13 @@
 <template>
-    <div>
-        <h1>FOOTER</h1>
-    </div>
-
-	<div class="card">
-		<p>test</p>
+	<div class="footer">
+		<p>EPITECH DIGITAL - Guillaume RAVAN NALBANDIAN - Loïc CHAZEAU</p>
 	</div>
 </template>
 
 <style scoped>
-	.read-the-docs {
-		color: #888;
-	}
+.footer {
+    margin-bottom: 5vh;
+    position: absolute;
+    bottom: 0px;
+}
 </style>

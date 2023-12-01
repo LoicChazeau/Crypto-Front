@@ -11,12 +11,13 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-bottom: 4em;
+        margin-bottom: 3em;
     }
 	.logo {
-		width: 100px;
+		width: 85px;
 	}
     .title {
         font-weight: bold;
+        font-weight: 2.5em;
     }
 </style>
